@@ -1,0 +1,1 @@
+exports.devide = function devide(a, b){return a / b}
